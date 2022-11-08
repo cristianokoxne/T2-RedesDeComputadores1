@@ -3,7 +3,7 @@
 
 **Curso: Engenharia de Computação / Elétrica**
 
-**Nome/RA: Cristiano Koxne**
+**Nome/RA: Cristiano Koxne  1920251**
 
 
 ## Tarefa 1:  Sub-Redes
